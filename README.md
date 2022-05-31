@@ -6,7 +6,7 @@
 - 🔭 I´m currently looking for new opportunities!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love surfing and videogames! 
 
 ### Connect with me:
